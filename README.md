@@ -4,7 +4,7 @@
 
 ![In_Context_Learning](https://img.shields.io/badge/Model-In--Context_Learning-red) ![Policy Gradient](https://img.shields.io/badge/Model-Policy_Gradient-red) ![Chain-of-Thought](https://img.shields.io/badge/Model-RL-red) ![Chain-of-Thought](https://img.shields.io/badge/Model-Chain_of_Thought-red) ![GPT-3](https://img.shields.io/badge/Model-GPT--3-red)
 
-Data and code for our Paper [Dynamic Prompt Learning via Policy Gradient for Semi-structured Mathematical Reasoning](https://arxiv.org/abs/2209.14610).
+Data and code for our ICLR 2023 Paper [Dynamic Prompt Learning via Policy Gradient for Semi-structured Mathematical Reasoning](https://arxiv.org/abs/2209.14610).
 
 
 
@@ -311,10 +311,10 @@ The **TabMWP** dataset is licensed under a [Creative Commons Attribution-NonComm
 If the paper, codes, or the dataset inspire you, please cite us:
 
 ```latex
-@article{lu2022dynamic,
-    title={Dynamic Prompt Learning via Policy Gradient for Semi-structured Mathematical Reasoning},
-    author={Lu, Pan and Qiu, Liang and Chang, Kai-Wei and Wu, Ying Nian and Zhu, Song-Chun and Rajpurohit, Tanmay and Clark, Peter and Kalyan, Ashwin},
-    journal={arXiv preprint arXiv:2209.14610},
-    year={2022}
+@inproceedings{lu2023dynamic,
+  title={Dynamic Prompt Learning via Policy Gradient for Semi-structured Mathematical Reasoning},
+  author={Lu, Pan and Qiu, Liang and Chang, Kai-Wei and Wu, Ying Nian and Zhu, Song-Chun and Rajpurohit, Tanmay and Clark, Peter and Kalyan, Ashwin},
+  booktitle={International Conference on Learning Representations (ICLR)},
+  year={2023}
 }
 ```
