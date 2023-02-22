@@ -6,6 +6,37 @@
 
 Data and code for our ICLR 2023 Paper [Dynamic Prompt Learning via Policy Gradient for Semi-structured Mathematical Reasoning](https://arxiv.org/abs/2209.14610).
 
+For more details, please refer to the project page with dataset exploration and visualization tools: https://promptpg.github.io.
+
+:bell: If you have any questions or suggestions, please don't hesitate to let us know. You can directly email [Pan Lu](https://lupantech.github.io/) at UCLA using the email address lupantech@gmail.com, comment on the [Twitter](https://twitter.com/lupantech/status/1623039527026831361), or post an issue on this repository.
+
+
+## :fire: Leaderboard :fire:
+
+:bell: The leaderboard is continuously being updated. If you have any new results to contribute, please feel free to reach out to us.
+
+| **#** | **Method**                                 | **Sources**                                               | **Date**   | **FREE**  | **MC**    | **INT**   | **DEC**   | **EXTR**  | **BOOL**  | **OTH**   | **Avg**   |
+| ----- | ------------------------------------------ | --------------------------------------------------------- | ---------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
+| 0     | **Human**                                  | [Pan et al., ICLR 2023](https://arxiv.org/abs/2209.14610) | 09/29-2022 | **84.61** | **93.32** | **84.95** | **83.29** | **97.18** | **88.69** | **96.20** | **90.22** |
+| 1     | **Heuristic guess**                        | [Pan et al., ICLR 2023](https://arxiv.org/abs/2209.14610) | 09/29-2022 | 6.71      | 39.81     | 8.37      | 0.26      | 30.80     | 51.22     | 26.67     | 15.29     |
+| 3     | **UnifiedQA_Small** (pre-trained)          | [Pan et al., ICLR 2023](https://arxiv.org/abs/2209.14610) | 09/29-2022 | 1.18      | 43.62     | 1.37      | 0.43      | 38.70     | 49.78     | 37.14     | 12.18     |
+| 4     | **UnifiedQA_Base** (pre-trained)           | [Pan et al., ICLR 2023](https://arxiv.org/abs/2209.14610) | 09/29-2022 | 4.60      | 43.02     | 5.28      | 1.97      | 37.08     | 50.11     | 38.10     | 14.56     |
+| 5     | **UnifiedQA_Large** (pre-trained)          | [Pan et al., ICLR 2023](https://arxiv.org/abs/2209.14610) | 09/29-2022 | 4.48      | 48.80     | 5.19      | 1.72      | 48.33     | 50.33     | 40.00     | 15.96     |
+| 6     | **TAPEX_Base** (pre-trained)               | [Pan et al., ICLR 2023](https://arxiv.org/abs/2209.14610) | 09/29-2022 | 7.32      | 39.76     | 8.68      | 2.06      | 35.06     | 47.11     | 20.95     | 15.73     |
+| 7     | **TAPEX_Large** (pre-trained)              | [Pan et al., ICLR 2023](https://arxiv.org/abs/2209.14610) | 09/29-2022 | 8.80      | 46.59     | 10.62     | 1.72      | 46.91     | 48.11     | 30.48     | 18.59     |
+| 8     | **UnifiedQA_Small** (fine-tuned)           | [Pan et al., ICLR 2023](https://arxiv.org/abs/2209.14610) | 09/29-2022 | 22.27     | 51.31     | 27.27     | 2.83      | 52.28     | 48.11     | 69.52     | 29.79     |
+| 9     | **UnifiedQA_Base** (fine-tuned)            | [Pan et al., ICLR 2023](https://arxiv.org/abs/2209.14610) | 09/29-2022 | 34.02     | 70.68     | 40.74     | 7.90      | 84.09     | 55.67     | 73.33     | 43.52     |
+| 10    | **UnifiedQA_Large** (fine-tuned)           | [Pan et al., ICLR 2023](https://arxiv.org/abs/2209.14610) | 09/29-2022 | 48.67     | 82.18     | 55.97     | 20.26     | 94.63     | 68.89     | 79.05     | 57.35     |
+| 11    | **TAPEX_Base** (fine-tuned)                | [Pan et al., ICLR 2023](https://arxiv.org/abs/2209.14610) | 09/29-2022 | 39.59     | 73.09     | 46.85     | 11.33     | 84.19     | 61.33     | 69.52     | 48.27     |
+| 12    | **TAPEX_Large** (fine-tuned)               | [Pan et al., ICLR 2023](https://arxiv.org/abs/2209.14610) | 09/29-2022 | 51.00     | 80.02     | 59.92     | 16.31     | 95.34     | 64.00     | 73.33     | 58.52     |
+| 13    | **Zero-shot GPT-3**                        | [Pan et al., ICLR 2023](https://arxiv.org/abs/2209.14610) | 09/29-2022 | 53.57     | 66.67     | 55.55     | 45.84     | 78.22     | 55.44     | 54.29     | 56.96     |
+| 14    | **Zero-shot-CoT GPT-3**                    | [Pan et al., ICLR 2023](https://arxiv.org/abs/2209.14610) | 09/29-2022 | 54.36     | 66.92     | 55.82     | 48.67     | 78.82     | 55.67     | 51.43     | 57.61     |
+| 15    | **Few-shot GPT-3** (2-shot)                | [Pan et al., ICLR 2023](https://arxiv.org/abs/2209.14610) | 09/29-2022 | 54.69     | 64.11     | 58.36     | 40.40     | 75.95     | 52.41     | 53.02     | 57.13     |
+| 16    | **Few-shot-CoT GPT-3** (2-shot)            | [Pan et al., ICLR 2023](https://arxiv.org/abs/2209.14610) | 09/29-2022 | 60.76     | 69.09     | 60.04     | 63.58     | 76.49     | 61.19     | 67.30     | 62.92     |
+| 17    | **Few-shot-CoT GPT-3 + PromptPG** (2-shot) | [Pan et al., ICLR 2023](https://arxiv.org/abs/2209.14610) | 09/29-2022 | 66.17     | 74.11     | 64.12     | 74.16     | 76.19     | 72.81     | **65.71** | 68.23     |
+| 18    | **Few-shot PoT Codex** (4-shot)            | [Chen et al., arXiv](https://arxiv.org/abs/2211.12588)    | 11/22-2022 | **79.5**  | **88.4**  | **77.1**  | **88.9**  | **88.7**  | **92.7**  | 48.6      | **81.8**  |
+
+
 
 
 ## About PromptPG
