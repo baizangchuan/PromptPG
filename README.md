@@ -15,28 +15,84 @@ For more details, please refer to the project page with dataset exploration and 
 
 :bell: The leaderboard is continuously being updated. If you have any new results to contribute, please feel free to reach out to us.
 
-| **#** | **Method**                                 | **Sources**                                               | **Date**   | **FREE**  | **MC**    | **INT**   | **DEC**   | **EXTR**  | **BOOL**  | **OTH**   | **Avg**   |
-| ----- | ------------------------------------------ | --------------------------------------------------------- | ---------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
-| 0     | **Human**                                  | [Pan et al., ICLR 2023](https://arxiv.org/abs/2209.14610) | 09/29-2022 | **84.61** | **93.32** | **84.95** | **83.29** | **97.18** | **88.69** | **96.20** | **90.22** |
-| 1     | **Heuristic guess**                        | [Pan et al., ICLR 2023](https://arxiv.org/abs/2209.14610) | 09/29-2022 | 6.71      | 39.81     | 8.37      | 0.26      | 30.80     | 51.22     | 26.67     | 15.29     |
-| 3     | **UnifiedQA_Small** (pre-trained)          | [Pan et al., ICLR 2023](https://arxiv.org/abs/2209.14610) | 09/29-2022 | 1.18      | 43.62     | 1.37      | 0.43      | 38.70     | 49.78     | 37.14     | 12.18     |
-| 4     | **UnifiedQA_Base** (pre-trained)           | [Pan et al., ICLR 2023](https://arxiv.org/abs/2209.14610) | 09/29-2022 | 4.60      | 43.02     | 5.28      | 1.97      | 37.08     | 50.11     | 38.10     | 14.56     |
-| 5     | **UnifiedQA_Large** (pre-trained)          | [Pan et al., ICLR 2023](https://arxiv.org/abs/2209.14610) | 09/29-2022 | 4.48      | 48.80     | 5.19      | 1.72      | 48.33     | 50.33     | 40.00     | 15.96     |
-| 6     | **TAPEX_Base** (pre-trained)               | [Pan et al., ICLR 2023](https://arxiv.org/abs/2209.14610) | 09/29-2022 | 7.32      | 39.76     | 8.68      | 2.06      | 35.06     | 47.11     | 20.95     | 15.73     |
-| 7     | **TAPEX_Large** (pre-trained)              | [Pan et al., ICLR 2023](https://arxiv.org/abs/2209.14610) | 09/29-2022 | 8.80      | 46.59     | 10.62     | 1.72      | 46.91     | 48.11     | 30.48     | 18.59     |
-| 8     | **UnifiedQA_Small** (fine-tuned)           | [Pan et al., ICLR 2023](https://arxiv.org/abs/2209.14610) | 09/29-2022 | 22.27     | 51.31     | 27.27     | 2.83      | 52.28     | 48.11     | 69.52     | 29.79     |
-| 9     | **UnifiedQA_Base** (fine-tuned)            | [Pan et al., ICLR 2023](https://arxiv.org/abs/2209.14610) | 09/29-2022 | 34.02     | 70.68     | 40.74     | 7.90      | 84.09     | 55.67     | 73.33     | 43.52     |
-| 10    | **UnifiedQA_Large** (fine-tuned)           | [Pan et al., ICLR 2023](https://arxiv.org/abs/2209.14610) | 09/29-2022 | 48.67     | 82.18     | 55.97     | 20.26     | 94.63     | 68.89     | 79.05     | 57.35     |
-| 11    | **TAPEX_Base** (fine-tuned)                | [Pan et al., ICLR 2023](https://arxiv.org/abs/2209.14610) | 09/29-2022 | 39.59     | 73.09     | 46.85     | 11.33     | 84.19     | 61.33     | 69.52     | 48.27     |
-| 12    | **TAPEX_Large** (fine-tuned)               | [Pan et al., ICLR 2023](https://arxiv.org/abs/2209.14610) | 09/29-2022 | 51.00     | 80.02     | 59.92     | 16.31     | 95.34     | 64.00     | 73.33     | 58.52     |
-| 13    | **Zero-shot GPT-3**                        | [Pan et al., ICLR 2023](https://arxiv.org/abs/2209.14610) | 09/29-2022 | 53.57     | 66.67     | 55.55     | 45.84     | 78.22     | 55.44     | 54.29     | 56.96     |
-| 14    | **Zero-shot-CoT GPT-3**                    | [Pan et al., ICLR 2023](https://arxiv.org/abs/2209.14610) | 09/29-2022 | 54.36     | 66.92     | 55.82     | 48.67     | 78.82     | 55.67     | 51.43     | 57.61     |
-| 15    | **Few-shot GPT-3** (2-shot)                | [Pan et al., ICLR 2023](https://arxiv.org/abs/2209.14610) | 09/29-2022 | 54.69     | 64.11     | 58.36     | 40.40     | 75.95     | 52.41     | 53.02     | 57.13     |
-| 16    | **Few-shot-CoT GPT-3** (2-shot)            | [Pan et al., ICLR 2023](https://arxiv.org/abs/2209.14610) | 09/29-2022 | 60.76     | 69.09     | 60.04     | 63.58     | 76.49     | 61.19     | 67.30     | 62.92     |
-| 17    | **Few-shot-CoT GPT-3 + PromptPG** (2-shot) | [Pan et al., ICLR 2023](https://arxiv.org/abs/2209.14610) | 09/29-2022 | 66.17     | 74.11     | 64.12     | 74.16     | 76.19     | 72.81     | **65.71** | 68.23     |
-| 18    | **Few-shot PoT Codex** (4-shot)            | [Chen et al., arXiv](https://arxiv.org/abs/2211.12588)    | 11/22-2022 | **79.5**  | **88.4**  | **77.1**  | **88.9**  | **88.7**  | **92.7**  | 48.6      | **81.8**  |
+😀 You are invited to contribute your results to the TabMWP test split! Please send your result scores to [this email](mailto:lupantech@gmail.com) or open a new issue at the [github repository](https://github.com/lupantech/PromptPG/issues).
 
+| **#** | **Model**                  | **Table** | **Method**   | **Type** | **Source**                                                | **Date** | **Avg**   | **FREE** | **MC** | **INT** | **DEC** | **EXTR** | **BOOL** | **OTH** |
+| ----- | -------------------------- | --------- | ------------ | -------- | --------------------------------------------------------- | -------- | --------- | -------- | ------ | ------- | ------- | -------- | -------- | ------- |
+| *     | **Human Performance**      | Image     | -            | -        | [Link](https://arxiv.org/abs/2209.14610)                  | 22-09-29 | **90.22** | 84.61    | 93.32  | 84.95   | 83.29   | 97.18    | 88.69    | 96.20   |
+| 1     | **Chameleon (GPT-4) 🥇**    | Text-GT   | Few-shot     | Tool     | [Link](https://arxiv.org/abs/2304.09842)                  | 23-04-19 | **98.78** | 98.95    | 98.29  | 99.34   | 97.42   | 98.58    | 98.56    | 93.33   |
+| 2     | **PoT GPT-4 🥈**            | Text-GT   | Few-shot (4) | Code     | [Link](https://arxiv.org/abs/2304.09842)                  | 23-04-19 | **96.93** | 97.40    | 95.58  | 98.48   | 93.22   | 96.25    | 98.00    | 68.57   |
+| 3     | **CREATOR (ChatGPT) 🥉**    | Text-GT   | Few-shot     | Tool     | [Link](https://arxiv.org/abs/2305.14318)                  | 23-05-23 | **94.7**  | -        | -      | -       | -       | -        | -        | -       |
+| 4     | **Chameleon (ChatGPT)**    | Text-GT   | Few-shot     | Tool     | [Link](https://arxiv.org/abs/2304.09842)                  | 23-04-19 | **93.28** | 93.13    | 93.72  | 92.71   | 94.76   | 91.29    | 98.11    | 78.85   |
+| 5     | **TaCo (TAPEX-large)**     | Text-GT   | Fine-tuned   | CoT      | [Link](https://aclanthology.org/2023.findings-emnlp.734/) | 23-12-06 | **92.91** | 91.69    | 93.47  | 92.54   | 88.41   | 96.05    | 91.44    | 86.67   |
+| 6     | **PoT ChatGPT + Doc**      | Text-GT   | Zero-shot    | Tool     | [Link](https://arxiv.org/abs/2308.00675)                  | 23-08-01 | **92.69** | -        | -      | -       | -       | -        | -        | -       |
+| 7     | **CoT GPT-4**              | Text-GT   | Few-shot (8) | CoT      | [Link](https://arxiv.org/abs/2304.09842)                  | 23-04-19 | **90.81** | 88.48    | 97.49  | 86.16   | 97.51   | 96.86    | 99.11    | 89.52   |
+| 8     | **CoS-Planning (ChatGPT)** | Text-GT   | Few-shot     | Tool     | [Link](https://arxiv.org/abs/2310.05155)                  | 23-10-08 | **90.00** | -        | -      | -       | -       | -        | -        | -       |
+| 9     | **PoT ChatGPT**            | Text-GT   | Few-shot (4) | Code     | [Link](https://arxiv.org/abs/2304.09842)                  | 23-04-19 | **89.49** | 90.24    | 87.35  | 89.31   | 93.82   | 92.10    | 85.89    | 55.24   |
+| 10    | **BM25 (ChatGPT)**         | Text-GT   | Few-shot     | Tool     | [Link](https://arxiv.org/abs/2309.17428)                  | 23-09-29 | **89.2**  | -        | -      | -       | -       | -        | -        | -       |
+| 11    | **CRITIC (ChatGPT)**       | Text-GT   | Few-shot     | Tool     | [Link](https://arxiv.org/abs/2305.11738)                  | 23-09-30 | **89.0**  | -        | -      | -       | -       | -        | -        | -       |
+| 12    | **RetICL (Codex)**         | Text-GT   | Few-shot     | CoT      | [Link](https://arxiv.org/abs/2305.14502)                  | 23-05-23 | **88.51** | -        | -      | -       | -       | -        | -        | -       |
+| 13    | **CRAFT (ChatGPT)**        | Text-GT   | Few-shot     | Tool     | [Link](https://arxiv.org/abs/2309.17428)                  | 23-09-29 | **88.4**  | -        | -      | -       | -       | -        | -        | -       |
+| 14    | **CRITIC (GPT-3)**         | Text-GT   | Few-shot     | Tool     | [Link](https://arxiv.org/abs/2305.11738)                  | 23-09-30 | **87.6**  | -        | -      | -       | -       | -        | -        | -       |
+| 15    | **TaCo (TAPEX-base)**      | Text-GT   | Fine-tuned   | CoT      | [Link](https://aclanthology.org/2023.findings-emnlp.734/) | 23-12-06 | **86.12** | 85.53    | 85.74  | 85.29   | 86.44   | 93.31    | 77.89    | 81.90   |
+| 16    | **SimCSE (ChatGPT)**       | Text-GT   | Few-shot     | Tool     | [Link](https://arxiv.org/abs/2309.17428)                  | 23-09-29 | **83.8**  | -        | -      | -       | -       | -        | -        | -       |
+| 17    | **CoT ChatGPT**            | Text-GT   | Few-shot (8) | CoT      | [Link](https://arxiv.org/abs/2304.09842)                  | 23-04-19 | **82.03** | 78.43    | 92.32  | 75.38   | 90.30   | 92.30    | 92.89    | 87.62   |
+| 18    | **PoT-SC Codex**           | Text-GT   | Few-shot (4) | Code     | [Link](https://arxiv.org/abs/2211.12588)                  | 22-11-22 | **81.8**  | 79.5     | 88.4   | 77.1    | 88.9    | 88.7     | 92.7     | 48.6    |
+| 19    | **SEGSBS-PAL (Codex)**     | Text-GT   | Few-shot     | Code     | [Link](https://arxiv.org/abs/2305.00633)                  | 23-05-01 | **80.9**  | -        | -      | -       | -       | -        | -        | -       |
+| 20    | **CRITIC (LLaMA-2-70B)**   | Text-GT   | Few-shot     | Tool     | [Link](https://arxiv.org/abs/2305.11738)                  | 23-09-30 | **75.0**  | -        | -      | -       | -       | -        | -        | -       |
+| 21    | **ToRA (70B)**             | Text-GT   | -            | Tool     | [Link](https://arxiv.org/abs/2309.17452)                  | 23-09-29 | **74.0**  | -        | -      | -       | -       | -        | -        | -       |
+| 22    | **ToRA-Code (34B)**        | Text-GT   | -            | Code     | [Link](https://arxiv.org/abs/2309.17452)                  | 23-09-29 | **70.5**  | -        | -      | -       | -       | -        | -        | -       |
+| 23    | **CoT GPT-3 + PromptPG**   | Text-GT   | Few-shot (2) | CoT      | [Link](https://arxiv.org/abs/2209.14610)                  | 22-09-29 | **68.23** | 66.17    | 74.11  | 64.12   | 74.16   | 76.19    | 72.81    | 65.71   |
+| 24    | **ToRA-Code (13B)**        | Text-GT   | -            | Code     | [Link](https://arxiv.org/abs/2309.17452)                  | 23-09-29 | **65.4**  | -        | -      | -       | -       | -        | -        | -       |
+| 25    | **CodeLLaMA (PAL) (34B)**  | Text-GT   | -            | Code     | [Link](https://arxiv.org/abs/2309.17452)                  | 23-09-29 | **63.1**  | -        | -      | -       | -       | -        | -        | -       |
+| 26    | **CoT GPT-3**              | Text-GT   | Few-shot (2) | CoT      | [Link](https://arxiv.org/abs/2209.14610)                  | 22-09-29 | **60.76** | 69.09    | 60.04  | 63.58   | 76.49   | 61.19    | 67.30    | 62.92   |
+| 27    | **CodeLLaMA (PAL) (13B)**  | Text-GT   | -            | Code     | [Link](https://arxiv.org/abs/2309.17452)                  | 23-09-29 | **59.5**  | -        | -      | -       | -       | -        | -        | -       |
+| 28    | **LLaMA-2 (PAL) (70B)**    | Text-GT   | -            | Code     | [Link](https://arxiv.org/abs/2309.17452)                  | 23-09-29 | **59.5**  | -        | -      | -       | -       | -        | -        | -       |
+| 29    | **TAPEX_Large**            | Text-GT   | Fine-tuned   | PLM      | [Link](https://arxiv.org/abs/2209.14610)                  | 22-09-29 | **58.52** | 51.00    | 80.02  | 59.92   | 16.31   | 95.34    | 64.00    | 73.33   |
+| 30    | **CoT GPT-3**              | Text-GT   | Zero-shot    | CoT      | [Link](https://arxiv.org/abs/2209.14610)                  | 22-09-29 | **57.61** | 54.36    | 66.92  | 55.82   | 48.67   | 78.82    | 55.67    | 51.43   |
+| 31    | **LLaMA-2 (70B)**          | Text-GT   | -            | -        | [Link](https://arxiv.org/abs/2309.17452)                  | 23-09-29 | **57.5**  | -        | -      | -       | -       | -        | -        | -       |
+| 32    | **UnifiedQA_Large**        | Text-GT   | Fine-tuned   | PLM      | [Link](https://arxiv.org/abs/2209.14610)                  | 22-09-29 | **57.35** | 48.67    | 82.18  | 55.97   | 20.26   | 94.63    | 68.89    | 79.05   |
+| 33    | **GPT-3**                  | Text-GT   | Few-shot (2) | CoT      | [Link](https://arxiv.org/abs/2209.14610)                  | 22-09-29 | **57.13** | 54.69    | 64.11  | 58.36   | 40.40   | 75.95    | 52.41    | 53.02   |
+| 34    | **GPT-3**                  | Text-GT   | Zero-shot    | CoT      | [Link](https://arxiv.org/abs/2209.14610)                  | 22-09-29 | **56.96** | 53.57    | 66.67  | 55.55   | 45.84   | 78.22    | 55.44    | 54.29   |
+| 35    | **ToRA-Code (7B)**         | Text-GT   | -            | Code     | [Link](https://arxiv.org/abs/2309.17452)                  | 23-09-29 | **51.6**  | -        | -      | -       | -       | -        | -        | -       |
+| 36    | **TAPEX_Base**             | Text-GT   | Fine-tuned   | PLM      | [Link](https://arxiv.org/abs/2209.14610)                  | 22-09-29 | **48.27** | 39.59    | 73.09  | 46.85   | 11.33   | 84.19    | 61.33    | 69.52   |
+| 37    | **CodeLLaMA (PAL) (7B)**   | Text-GT   | -            | Code     | [Link](https://arxiv.org/abs/2309.17452)                  | 23-09-29 | **47.3**  | -        | -      | -       | -       | -        | -        | -       |
+| 38    | **ToRA (13B)**             | Text-GT   | -            | Tool     | [Link](https://arxiv.org/abs/2309.17452)                  | 23-09-29 | **47.2**  | -        | -      | -       | -       | -        | -        | -       |
+| 39    | **UnifiedQA_Base**         | Text-GT   | Fine-tuned   | PLM      | [Link](https://arxiv.org/abs/2209.14610)                  | 22-09-29 | **43.52** | 34.02    | 70.68  | 40.74   | 7.90    | 84.09    | 55.67    | 73.33   |
+| 40    | **ToRA (7B)**              | Text-GT   | -            | Tool     | [Link](https://arxiv.org/abs/2309.17452)                  | 23-09-29 | **42.4**  | -        | -      | -       | -       | -        | -        | -       |
+| 41    | **LLaMA-2 (13B)**          | Text-GT   | -            | -        | [Link](https://arxiv.org/abs/2309.17452)                  | 23-09-29 | **39.5**  | -        | -      | -       | -       | -        | -        | -       |
+| 42    | **LLaMA-2 (7B)**           | Text-GT   | -            | -        | [Link](https://arxiv.org/abs/2309.17452)                  | 23-09-29 | **31.1**  | -        | -      | -       | -       | -        | -        | -       |
+| 43    | **UnifiedQA_Small**        | Text-GT   | Fine-tuned   | PLM      | [Link](https://arxiv.org/abs/2209.14610)                  | 22-09-29 | **22.27** | 51.31    | 27.27  | 2.83    | 52.28   | 48.11    | 69.52    | 29.79   |
+| 44    | **TAPEX_Large**            | Text-GT   | Pre-trained  | PLM      | [Link](https://arxiv.org/abs/2209.14610)                  | 22-09-29 | **18.59** | 8.80     | 46.59  | 10.62   | 1.72    | 46.91    | 48.11    | 30.48   |
+| 45    | **UnifiedQA_Large**        | Text-GT   | Pre-trained  | PLM      | [Link](https://arxiv.org/abs/2209.14610)                  | 22-09-29 | **15.96** | 4.48     | 48.80  | 5.19    | 1.72    | 48.33    | 50.33    | 40.00   |
+| 46    | **TAPEX_Base**             | Text-GT   | Pre-trained  | PLM      | [Link](https://arxiv.org/abs/2209.14610)                  | 22-09-29 | **15.73** | 7.32     | 39.76  | 8.68    | 2.06    | 35.06    | 47.11    | 20.95   |
+| 47    | **UnifiedQA_Base**         | Text-GT   | Pre-trained  | PLM      | [Link](https://arxiv.org/abs/2209.14610)                  | 22-09-29 | **14.56** | 4.60     | 43.02  | 5.28    | 1.97    | 37.08    | 50.11    | 38.10   |
+| 48    | **UnifiedQA_Small**        | Text-GT   | Pre-trained  | PLM      | [Link](https://arxiv.org/abs/2209.14610)                  | 22-09-29 | **12.18** | 1.18     | 43.62  | 1.37    | 0.43    | 38.70    | 49.78    | 37.14   |
+| *     | **Heuristic Guess**        | -         | -            | -        | [Link](https://arxiv.org/abs/2209.14610)                  | 22-09-29 | **15.29** | 6.71     | 39.81  | 8.37    | 0.26    | 30.80    | 51.22    | 26.67   |
 
+**Table formats**
+
+- **Image**: taking the image format of the table as the input
+
+- **Text-GT**: taking the textual ground truth parsed format of the table as the input
+
+**Model types**
+
+- **PLM**: pre-trained language model
+- **CoT**: chain-of-thought prompting large language mode
+- **Code**: code-augmented large language model
+- **Tool**: tool-augmented large langauge model
+
+**Accuracies for different question types:**
+
+- **Avg**: all problems (reporting the average accuracy)
+- **FREE**: free-text questions
+- **MC**: multi-choice questions
+- **INT**: questions with integer answers
+- **DEC**: questions with decimal answers
+- **EXTR**: questions with extractive text answers
+- **BOOL**: questions with Boolean text answers
+- **OTH**: questions with other text answers
 
 
 ## About PromptPG
