@@ -78,10 +78,12 @@ def call_gpt3(engine, prompt, temperature, max_tokens, top_p, frequency_penalty,
     return output
 
 
-def get_batch_reward_loss(scores, cand_pids, pid_batch, option_batch, unit_batch, label_batch, args):
+def get_batch_reward_loss(scores, cand_pids, pid_batch, option_batch, unit_batch, label_batch, args, tokenizer, model):
 
     batch_loss = 0
     batch_reward = 0
+
+
 
     ## loop over the training examples
     for i in range(len(scores)):
@@ -106,15 +108,7 @@ def get_batch_reward_loss(scores, cand_pids, pid_batch, option_batch, unit_batch
         # generate the prompt input
         prompt = build_prompt(problems, shot_pids, pid_batch[i], args)
 
-        torch.manual_seed(1234)
-        # os.environ['CUDA_VISIBLE_DEVICES'] = '1'
-        # device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-        # device = torch.device("cuda:1")
-        tokenizer = AutoTokenizer.from_pretrained("/data/qq/Qwen", trust_remote_code=True)
-               # 设置padding token为eos_token
-        tokenizer.pad_token = tokenizer.eos_token
-        print(f"-----gpu_base: {gpu_base}")
-        model = AutoModelForCausalLM.from_pretrained("/data/qq/Qwen", device_map=f'cuda:{gpu_base}', trust_remote_code=True).eval()
+
 
         # get the output from GPT-3
         output = get_gpt3_output(prompt, args, model, tokenizer)
@@ -168,6 +162,14 @@ def policy_gradient_train(policy_model, problems, train_pids, cand_pids, cand_ex
 
     STOP_FLAG = False
 
+    # model
+    torch.manual_seed(1234)
+    tokenizer = AutoTokenizer.from_pretrained("/data/qq/Qwen", trust_remote_code=True)
+    tokenizer.add_special_tokens({'pad_token': '<|endoftext|>'})
+    
+    print(f"-----gpu_base: {args.gpu_base}")
+    model = AutoModelForCausalLM.from_pretrained("/data/qq/Qwen", device_map=f'cuda:{args.gpu_base}', trust_remote_code=True).eval()
+
     for epoch in range(args.epochs):
         logger.write(f"Epoch: {epoch}")
 
@@ -196,7 +198,7 @@ def policy_gradient_train(policy_model, problems, train_pids, cand_pids, cand_ex
             scores = F.softmax(scores, dim=1)  # len(train_batch) x len(cand_examples)
 
             cids, reward, loss = get_batch_reward_loss(scores, cand_pids, pid_batch, option_batch, unit_batch,
-                                                       label_batch, args)
+                                                       label_batch, args, tokenizer, model)
 
             logger.write(f"cids for sample[-1] in batch: {cids}")
             logger.write(f"Cand prob for sample[-1] in batch: {[round(x,5) for x in scores[-1, :].tolist()]}")

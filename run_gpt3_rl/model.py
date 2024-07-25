@@ -89,7 +89,7 @@ class policy_network(nn.Module):
         sentence_embedding = last_hidden_states[:, 0, :]  # len(input_list) x hidden_size
 
         if self.linear:
-            sentence_embedding = self.linear(sentence_embedding)  # len(input_list) x embedding_size
+            sentence_embedding = self.linear(sentence_embedding).to(torch.float32)  # len(input_list) x embedding_size
 
         return sentence_embedding
 
