@@ -1,0 +1,14 @@
+python run_gpt3.py \
+--label exp1 \
+--ckpt_root ../checkpoints \
+--model gpt3_rl \
+--test_split test \
+--test_number -1 \
+--shot_number 2 \
+--prompt_format TQ-SA \
+--seed 2 \
+--cand_number 20 \
+--embedding_size 128 \
+--model_config bert-base-uncased \
+--ckpt exp1/ckpt_best_reward.pt \
+--gpu 0

@@ -12,10 +12,11 @@ import numpy as np
 import torch
 import torch.nn.functional as F
 import openai
+from transformers import AutoModelForCausalLM, AutoTokenizer
 
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
-#git
+
 def load_data(args):
     problems_test = json.load(open(os.path.join(args.data_root, f'problems_{args.test_split}.json')))
     problems_train = json.load(open(os.path.join(args.data_root, f'problems_train.json')))
@@ -57,6 +58,14 @@ def get_gpt3_output(prompt, args):
                 time.sleep(0.1)
     return output
 
+def call_QWen(prompt, args):
+
+    query=[]
+    query.append({'text': prompt})
+    query = tokenizer.from_list_format(query)
+    # print(query)
+    response, _ = model.chat(tokenizer, query=query, history=None)
+    return response
 
 def get_result_file(args):
     result_path = f"{args.output_root}/{args.model}"
@@ -160,7 +169,8 @@ if __name__ == '__main__':
     correct = 0  # number of correct results
 
     # policy network
-    policy_model = policy_network(model_config=args.model_config,
+    policy_model = policy_network(
+                                    # model_config=args.model_config,
                                   add_linear=True,
                                   embedding_size=args.embedding_size,
                                   freeze_encoder=True)
@@ -191,6 +201,13 @@ if __name__ == '__main__':
 
     policy_model.eval()
 
+            # # 加载模型
+    torch.manual_seed(1234)
+    os.environ['CUDA_VISIBLE_DEVICES'] = '1'
+    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+    tokenizer = AutoTokenizer.from_pretrained("/data/qq/Qwen", trust_remote_code=True)
+    model = AutoModelForCausalLM.from_pretrained("/data/qq/Qwen", device_map='cuda', trust_remote_code=True).eval()
+
     with torch.no_grad():
 
         # Calculate the embeddings for candidate examples only one time!
@@ -218,9 +235,22 @@ if __name__ == '__main__':
             prompt = build_prompt(problems, shot_pids, pid, args)  # generate the prompt input
 
             if pid in results:
-                output = results[pid]["output"]
+                # output = results[pid]["output"]
+                query=[]
+                query.append({'text': prompt})
+                query = tokenizer.from_list_format(query)
+                # print(query)
+                response, _ = model.chat(tokenizer, query=query, history=None)
+                output = response  
+
             else:
-                output = get_gpt3_output(prompt, args)  # generate the output by GPT-3
+                query=[]
+                query.append({'text': prompt})
+                query = tokenizer.from_list_format(query)
+                # print(query)
+                response, _ = model.chat(tokenizer, query=query, history=None)
+                output = response  
+                # output = get_gpt3_output(prompt, args)  # generate the output by GPT-3
 
             # the core prediction in the output
             prediction = extract_prediction(output, options, args.option_inds)

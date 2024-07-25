@@ -10,12 +10,18 @@ import openai
 
 import numpy as np
 import torch.nn.functional as F
+import sys
+sys.path.append('/data/qq/hhj/RetICL/PromptPG/')
+print(sys.path)
 
 from functools import lru_cache
 from tools import utils
 from base_prompt import *
 from model import *
 from utilities import extract_prediction, normalize_answer
+from transformers import AutoModelForCausalLM, AutoTokenizer
+
+
 
 sys.path.append("../")
 openai.api_key = os.getenv("OPENAI_API_KEY")
@@ -34,10 +40,19 @@ def load_data(args):
     return problems, cand_pids, train_pids
 
 
-def get_gpt3_output(prompt, args):
-    return call_gpt3(args.engine, prompt, args.temperature, args.max_tokens, args.top_p, args.frequency_penalty,
-                     args.presence_penalty)
+def get_gpt3_output(prompt, args, model, tokenizer):
+    # return call_gpt3(args.engine, prompt, args.temperature, args.max_tokens, args.top_p, args.frequency_penalty,
+                    #  args.presence_penalty)
+    return call_QWen(prompt, args, model, tokenizer)
 
+def call_QWen(prompt, args, model, tokenizer):
+
+    query=[]
+    query.append({'text': prompt})
+    query = tokenizer.from_list_format(query)
+    # print(query)
+    response, _ = model.chat(tokenizer, query=query, history=None)
+    return response
 
 @lru_cache(maxsize=10000)
 def call_gpt3(engine, prompt, temperature, max_tokens, top_p, frequency_penalty, presence_penalty):
@@ -91,8 +106,18 @@ def get_batch_reward_loss(scores, cand_pids, pid_batch, option_batch, unit_batch
         # generate the prompt input
         prompt = build_prompt(problems, shot_pids, pid_batch[i], args)
 
+        torch.manual_seed(1234)
+        # os.environ['CUDA_VISIBLE_DEVICES'] = '1'
+        # device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+        # device = torch.device("cuda:1")
+        tokenizer = AutoTokenizer.from_pretrained("/data/qq/Qwen", trust_remote_code=True)
+               # 设置padding token为eos_token
+        tokenizer.pad_token = tokenizer.eos_token
+        print(f"-----gpu_base: {gpu_base}")
+        model = AutoModelForCausalLM.from_pretrained("/data/qq/Qwen", device_map=f'cuda:{gpu_base}', trust_remote_code=True).eval()
+
         # get the output from GPT-3
-        output = get_gpt3_output(prompt, args)
+        output = get_gpt3_output(prompt, args, model, tokenizer)
 
         # extract the prediction from the output
         prediction = extract_prediction(output, option_batch[i], args.option_inds)
@@ -279,11 +304,11 @@ def parse_args():
     parser.add_argument('--presence_penalty', type=float, default=0.0)
 
     # Policy gradient settings
-    parser.add_argument('--gpu', type=str, default='0')
     parser.add_argument('--model_config',
                         type=str,
                         default='bert-base-uncased',
-                        choices=['distilbert-base-uncased', 'bert-base-uncased'])
+                        # choices=['distilbert-base-uncased', 'bert-base-uncased']
+                        )
     parser.add_argument('--train_number', type=int, default=20, help='Number of training samples.')
     parser.add_argument('--cand_number', type=int, default=10, help='Number of candidate prompts.')
     parser.add_argument('--lr', type=float, default=0.001, help='Learning rate of policy network.')
@@ -294,6 +319,9 @@ def parse_args():
                         default=20,
                         help='Policy network training batch size. Set to train_number by default.')
     parser.add_argument('--ckpt_root', type=str, default='../checkpoints')
+    parser.add_argument('--gpu', type=str, default='0')
+    parser.add_argument('--gpu_base', type=str, default='1')
+    parser.add_argument('--gpu_embedding', type=str, default='2')
 
     args = parser.parse_args()
 
@@ -325,10 +353,20 @@ if __name__ == '__main__':
     policy_model = policy_network(model_config=args.model_config,
                                   add_linear=True,
                                   embedding_size=args.embedding_size,
-                                  freeze_encoder=True)
+                                  freeze_encoder=True,
+                                  gpu_base=args.gpu_base,
+                                  gpu_embedding=args.gpu_embedding,)
 
     device = torch.device("cuda:" + args.gpu if torch.cuda.is_available() else "cpu")  # one GPU
+    # os.environ['CUDA_VISIBLE_DEVICES'] = '0,1'
     policy_model = policy_model.to(device)
+
+    #     # # 加载模型
+    # torch.manual_seed(1234)
+    # os.environ['CUDA_VISIBLE_DEVICES'] = '1'
+    # device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+    # tokenizer = AutoTokenizer.from_pretrained("/data/qq/Qwen", trust_remote_code=True)
+    # model = AutoModelForCausalLM.from_pretrained("/data/qq/Qwen", device_map='cuda', trust_remote_code=True).eval()
 
     ## construct candidate examples
     cand_examples = []
