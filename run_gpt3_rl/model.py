@@ -57,11 +57,12 @@ class policy_network(nn.Module):
         super().__init__()
         self.tokenizer = AutoTokenizer.from_pretrained(model_config, trust_remote_code=True)
         # 设置padding token为eos_token
-        if self.tokenizer.pad_token is None:
-            self.tokenizer.pad_token = self.tokenizer.eos_token
-
+        # self.tokenizer.pad_token = self.tokenizer.eos_token
+        self.tokenizer.add_special_tokens({'pad_token': '<|endoftext|>'})
+        print(f"-----self.tokenizer.pad_token:{self.tokenizer.pad_token}")
         print("model_config:", model_config)
         print(f"-----gpu_embedding: {gpu_embedding}")
+
         self.model = AutoModelForCausalLM.from_pretrained(model_config, device_map=f'cuda:{gpu_embedding}', trust_remote_code=True).eval()
 
 
@@ -73,11 +74,13 @@ class policy_network(nn.Module):
         if add_linear:
             # Add an additional small, adjustable linear layer on top of BERT tuned through RL
             self.embedding_size = embedding_size
-            self.linear = nn.Linear(self.model.config.hidden_size, embedding_size)  # 768 for BERT-base-uncased, distilbert-base-uncased
+            self.linear = nn.Linear(self.model.config.hidden_size, embedding_size, dtype=torch.bfloat16)  # 768 for BERT-base-uncased, distilbert-base-uncased
         else:
             self.linear = None
 
     def forward(self, input_list):
+                # 设置padding token为eos_token
+        # self.tokenizer.pad_token = self.tokenizer.eos_token
         input = self.tokenizer(input_list, truncation=True, padding=True, return_tensors="pt").to(self.model.device)
         output = self.model(**input, output_hidden_states=True)
         # Get last layer hidden states

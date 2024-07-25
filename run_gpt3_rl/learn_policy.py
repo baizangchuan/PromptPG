@@ -184,7 +184,10 @@ def policy_gradient_train(policy_model, problems, train_pids, cand_pids, cand_ex
             option_batch = options[batch_i * args.batch_size:(batch_i + 1) * args.batch_size]
 
             # We need to encode cands again every time we update the network
-            embedding_cands = policy_model(cand_examples)  # len(cand_examples) x embedding_size
+            embedding_cands = policy_model(# The code `cand_examples` is a comment in Python. Comments
+            # are used to document code and are not executed by the
+            # Python interpreter.
+            cand_examples)  # len(cand_examples) x embedding_size
             embedding_ctxt = policy_model(train_batch)  # len(train_batch) x embedding_size
 
             scores = torch.mm(embedding_ctxt, embedding_cands.t())  # len(train_batch) x len(cand_examples)

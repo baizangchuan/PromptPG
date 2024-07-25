@@ -6,11 +6,11 @@ python learn_policy.py \
 --seed 2 \
 --model_config /data/qq/Qwen \
 --train_number 160 \
---cand_number 20 \
+--cand_number 10 \
 --lr 0.001 \
 --epochs 20 \
 --embedding_size 128 \
---batch_size 20 \
+--batch_size 2 \
 --gpu 0 \
 --gpu_base 1 \
 --gpu_embedding 2
