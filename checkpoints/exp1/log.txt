@@ -186,3 +186,2887 @@ Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1,
 ### loss for the batch: 9.21034049987793
 
 Batch: 31
+cids for sample[-1] in batch: [2 0]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 32
+cids for sample[-1] in batch: [8 5]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 33
+cids for sample[-1] in batch: [6 2]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 34
+cids for sample[-1] in batch: [7 2]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 35
+cids for sample[-1] in batch: [2 0]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 2
+### loss for the batch: 9.21034049987793
+
+Batch: 36
+cids for sample[-1] in batch: [3 0]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 37
+cids for sample[-1] in batch: [4 0]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 2
+### loss for the batch: 9.21034049987793
+
+Batch: 38
+cids for sample[-1] in batch: [4 8]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 2
+### loss for the batch: 9.21034049987793
+
+Batch: 39
+cids for sample[-1] in batch: [9 6]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 40
+cids for sample[-1] in batch: [5 4]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 41
+cids for sample[-1] in batch: [4 1]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 42
+cids for sample[-1] in batch: [9 5]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 43
+cids for sample[-1] in batch: [8 7]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 44
+cids for sample[-1] in batch: [7 4]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 45
+cids for sample[-1] in batch: [6 1]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 46
+cids for sample[-1] in batch: [5 9]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 47
+cids for sample[-1] in batch: [1 5]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 48
+cids for sample[-1] in batch: [8 5]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 49
+cids for sample[-1] in batch: [7 9]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 50
+cids for sample[-1] in batch: [8 2]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 51
+cids for sample[-1] in batch: [8 5]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 52
+cids for sample[-1] in batch: [8 7]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 53
+cids for sample[-1] in batch: [2 4]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 54
+cids for sample[-1] in batch: [2 7]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 55
+cids for sample[-1] in batch: [9 4]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 2
+### loss for the batch: 9.21034049987793
+
+Batch: 56
+cids for sample[-1] in batch: [3 8]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 57
+cids for sample[-1] in batch: [2 4]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 58
+cids for sample[-1] in batch: [7 2]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 59
+cids for sample[-1] in batch: [4 8]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 60
+cids for sample[-1] in batch: [1 2]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 61
+cids for sample[-1] in batch: [6 4]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 62
+cids for sample[-1] in batch: [7 1]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 63
+cids for sample[-1] in batch: [4 6]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 64
+cids for sample[-1] in batch: [5 1]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 65
+cids for sample[-1] in batch: [9 3]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 66
+cids for sample[-1] in batch: [7 6]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 67
+cids for sample[-1] in batch: [6 8]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 68
+cids for sample[-1] in batch: [1 3]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 69
+cids for sample[-1] in batch: [2 4]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 70
+cids for sample[-1] in batch: [0 8]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 71
+cids for sample[-1] in batch: [9 1]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 72
+cids for sample[-1] in batch: [2 1]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 73
+cids for sample[-1] in batch: [9 2]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 74
+cids for sample[-1] in batch: [9 3]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 75
+cids for sample[-1] in batch: [2 0]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 76
+cids for sample[-1] in batch: [0 3]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 77
+cids for sample[-1] in batch: [2 3]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 78
+cids for sample[-1] in batch: [9 0]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 79
+cids for sample[-1] in batch: [2 4]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 2
+### loss for the batch: 9.21034049987793
+
+============================================
+### Epoch: 0 / 20
+### Total reward: -34, Total loss: -156.57579, Best reward: -34 at epoch 0, Best loss: -156.57579 at epoch 0
+
+saved the ckpt to ../checkpoints/exp1/ckpt_0.pt
+saved the best reward ckpt to ../checkpoints/exp1/ckpt_best_reward.pt
+saved the best loss ckpt to ../checkpoints/exp1/ckpt_best_loss.pt
+CacheInfo(hits=0, misses=0, maxsize=10000, currsize=0)
+============================================
+
+Epoch: 1
+Batch: 0
+cids for sample[-1] in batch: [1 2]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 2
+### loss for the batch: 9.21034049987793
+
+Batch: 1
+cids for sample[-1] in batch: [3 8]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 2
+### loss for the batch: 9.21034049987793
+
+Batch: 2
+cids for sample[-1] in batch: [9 3]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 3
+cids for sample[-1] in batch: [4 0]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 4
+cids for sample[-1] in batch: [5 2]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 5
+cids for sample[-1] in batch: [7 3]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 6
+cids for sample[-1] in batch: [6 4]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 7
+cids for sample[-1] in batch: [8 9]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 8
+cids for sample[-1] in batch: [3 0]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 9
+cids for sample[-1] in batch: [2 3]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 10
+cids for sample[-1] in batch: [1 0]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 11
+cids for sample[-1] in batch: [8 2]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 12
+cids for sample[-1] in batch: [2 5]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 13
+cids for sample[-1] in batch: [4 0]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 14
+cids for sample[-1] in batch: [4 5]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 15
+cids for sample[-1] in batch: [8 7]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 16
+cids for sample[-1] in batch: [1 0]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 17
+cids for sample[-1] in batch: [5 3]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 18
+cids for sample[-1] in batch: [8 3]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 19
+cids for sample[-1] in batch: [9 4]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 20
+cids for sample[-1] in batch: [8 7]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 2
+### loss for the batch: 9.21034049987793
+
+Batch: 21
+cids for sample[-1] in batch: [7 5]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 22
+cids for sample[-1] in batch: [5 6]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 23
+cids for sample[-1] in batch: [0 5]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 24
+cids for sample[-1] in batch: [6 3]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 25
+cids for sample[-1] in batch: [4 5]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 26
+cids for sample[-1] in batch: [3 0]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 2
+### loss for the batch: 9.21034049987793
+
+Batch: 27
+cids for sample[-1] in batch: [1 6]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 2
+### loss for the batch: 9.21034049987793
+
+Batch: 28
+cids for sample[-1] in batch: [4 9]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 2
+### loss for the batch: 9.21034049987793
+
+Batch: 29
+cids for sample[-1] in batch: [0 8]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 2
+### loss for the batch: 9.21034049987793
+
+Batch: 30
+cids for sample[-1] in batch: [3 0]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 31
+cids for sample[-1] in batch: [5 9]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 32
+cids for sample[-1] in batch: [9 1]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 33
+cids for sample[-1] in batch: [6 7]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 34
+cids for sample[-1] in batch: [5 6]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 35
+cids for sample[-1] in batch: [0 7]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 36
+cids for sample[-1] in batch: [3 6]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 37
+cids for sample[-1] in batch: [5 3]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 38
+cids for sample[-1] in batch: [9 8]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 39
+cids for sample[-1] in batch: [1 7]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 40
+cids for sample[-1] in batch: [1 8]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 41
+cids for sample[-1] in batch: [4 8]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 42
+cids for sample[-1] in batch: [4 7]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 43
+cids for sample[-1] in batch: [0 6]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 44
+cids for sample[-1] in batch: [0 2]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 45
+cids for sample[-1] in batch: [4 9]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 46
+cids for sample[-1] in batch: [3 2]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 47
+cids for sample[-1] in batch: [0 3]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 48
+cids for sample[-1] in batch: [7 8]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 49
+cids for sample[-1] in batch: [4 3]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 50
+cids for sample[-1] in batch: [0 1]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 51
+cids for sample[-1] in batch: [6 4]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 52
+cids for sample[-1] in batch: [8 1]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 53
+cids for sample[-1] in batch: [4 1]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 54
+cids for sample[-1] in batch: [6 3]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 55
+cids for sample[-1] in batch: [9 3]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 56
+cids for sample[-1] in batch: [1 6]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 57
+cids for sample[-1] in batch: [2 0]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 58
+cids for sample[-1] in batch: [4 5]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 59
+cids for sample[-1] in batch: [8 9]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 60
+cids for sample[-1] in batch: [6 5]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 61
+cids for sample[-1] in batch: [3 1]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 62
+cids for sample[-1] in batch: [4 3]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 63
+cids for sample[-1] in batch: [7 8]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 64
+cids for sample[-1] in batch: [9 6]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 65
+cids for sample[-1] in batch: [7 1]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 66
+cids for sample[-1] in batch: [8 5]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 67
+cids for sample[-1] in batch: [1 4]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 68
+cids for sample[-1] in batch: [4 6]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 69
+cids for sample[-1] in batch: [4 3]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 70
+cids for sample[-1] in batch: [8 5]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 71
+cids for sample[-1] in batch: [2 3]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 72
+cids for sample[-1] in batch: [4 3]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 73
+cids for sample[-1] in batch: [2 7]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 74
+cids for sample[-1] in batch: [5 4]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 75
+cids for sample[-1] in batch: [4 1]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 76
+cids for sample[-1] in batch: [2 8]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 77
+cids for sample[-1] in batch: [4 2]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 78
+cids for sample[-1] in batch: [2 3]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 79
+cids for sample[-1] in batch: [5 7]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 2
+### loss for the batch: 9.21034049987793
+
+============================================
+### Epoch: 1 / 20
+### Total reward: -38, Total loss: -174.99647, Best reward: -34 at epoch 0, Best loss: -174.99647 at epoch 1
+
+saved the ckpt to ../checkpoints/exp1/ckpt_1.pt
+saved the best loss ckpt to ../checkpoints/exp1/ckpt_best_loss.pt
+CacheInfo(hits=0, misses=0, maxsize=10000, currsize=0)
+============================================
+
+Epoch: 2
+Batch: 0
+cids for sample[-1] in batch: [9 8]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 2
+### loss for the batch: 9.21034049987793
+
+Batch: 1
+cids for sample[-1] in batch: [9 1]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 2
+cids for sample[-1] in batch: [2 4]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 3
+cids for sample[-1] in batch: [8 5]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 2
+### loss for the batch: 9.21034049987793
+
+Batch: 4
+cids for sample[-1] in batch: [7 1]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 5
+cids for sample[-1] in batch: [1 6]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 6
+cids for sample[-1] in batch: [1 4]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 2
+### loss for the batch: 9.21034049987793
+
+Batch: 7
+cids for sample[-1] in batch: [0 9]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 8
+cids for sample[-1] in batch: [8 6]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 9
+cids for sample[-1] in batch: [2 7]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 10
+cids for sample[-1] in batch: [0 8]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 11
+cids for sample[-1] in batch: [7 5]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 12
+cids for sample[-1] in batch: [9 0]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 13
+cids for sample[-1] in batch: [9 1]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 14
+cids for sample[-1] in batch: [1 8]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 15
+cids for sample[-1] in batch: [2 4]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 16
+cids for sample[-1] in batch: [2 9]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 17
+cids for sample[-1] in batch: [4 9]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 18
+cids for sample[-1] in batch: [9 4]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 19
+cids for sample[-1] in batch: [5 9]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 20
+cids for sample[-1] in batch: [9 0]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 21
+cids for sample[-1] in batch: [1 4]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 22
+cids for sample[-1] in batch: [4 9]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 23
+cids for sample[-1] in batch: [6 9]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 24
+cids for sample[-1] in batch: [5 9]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 25
+cids for sample[-1] in batch: [3 6]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 26
+cids for sample[-1] in batch: [2 1]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 2
+### loss for the batch: 9.21034049987793
+
+Batch: 27
+cids for sample[-1] in batch: [3 7]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 2
+### loss for the batch: 9.21034049987793
+
+Batch: 28
+cids for sample[-1] in batch: [7 0]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 29
+cids for sample[-1] in batch: [6 5]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 2
+### loss for the batch: 9.21034049987793
+
+Batch: 30
+cids for sample[-1] in batch: [6 8]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 2
+### loss for the batch: 9.21034049987793
+
+Batch: 31
+cids for sample[-1] in batch: [4 5]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 32
+cids for sample[-1] in batch: [6 1]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 33
+cids for sample[-1] in batch: [1 0]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 34
+cids for sample[-1] in batch: [1 3]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 35
+cids for sample[-1] in batch: [6 7]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 36
+cids for sample[-1] in batch: [2 8]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 37
+cids for sample[-1] in batch: [7 8]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 38
+cids for sample[-1] in batch: [2 5]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 39
+cids for sample[-1] in batch: [2 3]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 40
+cids for sample[-1] in batch: [0 6]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 41
+cids for sample[-1] in batch: [0 3]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 42
+cids for sample[-1] in batch: [4 8]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 2
+### loss for the batch: 9.21034049987793
+
+Batch: 43
+cids for sample[-1] in batch: [3 6]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 44
+cids for sample[-1] in batch: [5 1]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 45
+cids for sample[-1] in batch: [7 8]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 2
+### loss for the batch: 9.21034049987793
+
+Batch: 46
+cids for sample[-1] in batch: [2 0]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 47
+cids for sample[-1] in batch: [2 1]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 48
+cids for sample[-1] in batch: [5 0]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 49
+cids for sample[-1] in batch: [6 1]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 50
+cids for sample[-1] in batch: [3 4]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 51
+cids for sample[-1] in batch: [3 2]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 52
+cids for sample[-1] in batch: [3 0]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 53
+cids for sample[-1] in batch: [4 6]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 2
+### loss for the batch: 9.21034049987793
+
+Batch: 54
+cids for sample[-1] in batch: [9 2]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 55
+cids for sample[-1] in batch: [3 5]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 2
+### loss for the batch: 9.21034049987793
+
+Batch: 56
+cids for sample[-1] in batch: [9 6]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 57
+cids for sample[-1] in batch: [0 3]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 58
+cids for sample[-1] in batch: [1 7]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 59
+cids for sample[-1] in batch: [4 1]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 60
+cids for sample[-1] in batch: [5 6]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 61
+cids for sample[-1] in batch: [3 5]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 62
+cids for sample[-1] in batch: [9 1]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 63
+cids for sample[-1] in batch: [4 3]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 2
+### loss for the batch: 9.21034049987793
+
+Batch: 64
+cids for sample[-1] in batch: [3 1]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 65
+cids for sample[-1] in batch: [4 8]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 66
+cids for sample[-1] in batch: [8 6]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 67
+cids for sample[-1] in batch: [9 5]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 68
+cids for sample[-1] in batch: [6 1]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 69
+cids for sample[-1] in batch: [6 4]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 70
+cids for sample[-1] in batch: [7 2]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 71
+cids for sample[-1] in batch: [8 9]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 72
+cids for sample[-1] in batch: [5 0]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 73
+cids for sample[-1] in batch: [1 0]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 74
+cids for sample[-1] in batch: [4 1]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 75
+cids for sample[-1] in batch: [9 6]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 2
+### loss for the batch: 9.21034049987793
+
+Batch: 76
+cids for sample[-1] in batch: [5 3]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 77
+cids for sample[-1] in batch: [7 8]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 78
+cids for sample[-1] in batch: [8 1]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 79
+cids for sample[-1] in batch: [1 5]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+============================================
+### Epoch: 2 / 20
+### Total reward: -20, Total loss: -92.1034, Best reward: -20 at epoch 2, Best loss: -174.99647 at epoch 1
+
+saved the ckpt to ../checkpoints/exp1/ckpt_2.pt
+saved the best reward ckpt to ../checkpoints/exp1/ckpt_best_reward.pt
+CacheInfo(hits=0, misses=0, maxsize=10000, currsize=0)
+============================================
+
+Epoch: 3
+Batch: 0
+cids for sample[-1] in batch: [9 1]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 2
+### loss for the batch: 9.21034049987793
+
+Batch: 1
+cids for sample[-1] in batch: [3 1]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 2
+### loss for the batch: 9.21034049987793
+
+Batch: 2
+cids for sample[-1] in batch: [0 1]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 3
+cids for sample[-1] in batch: [5 6]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 4
+cids for sample[-1] in batch: [4 5]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 5
+cids for sample[-1] in batch: [2 9]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 6
+cids for sample[-1] in batch: [9 6]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 2
+### loss for the batch: 9.21034049987793
+
+Batch: 7
+cids for sample[-1] in batch: [0 8]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 8
+cids for sample[-1] in batch: [1 7]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 9
+cids for sample[-1] in batch: [4 6]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 10
+cids for sample[-1] in batch: [8 4]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 11
+cids for sample[-1] in batch: [7 4]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 12
+cids for sample[-1] in batch: [8 4]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 13
+cids for sample[-1] in batch: [4 2]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 14
+cids for sample[-1] in batch: [8 2]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 15
+cids for sample[-1] in batch: [2 6]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 16
+cids for sample[-1] in batch: [4 7]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 17
+cids for sample[-1] in batch: [2 3]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 18
+cids for sample[-1] in batch: [1 9]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 19
+cids for sample[-1] in batch: [7 3]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 20
+cids for sample[-1] in batch: [2 1]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 21
+cids for sample[-1] in batch: [4 9]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 22
+cids for sample[-1] in batch: [0 6]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 23
+cids for sample[-1] in batch: [9 4]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 24
+cids for sample[-1] in batch: [0 2]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 25
+cids for sample[-1] in batch: [0 5]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 26
+cids for sample[-1] in batch: [6 9]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 2
+### loss for the batch: 9.21034049987793
+
+Batch: 27
+cids for sample[-1] in batch: [8 2]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 2
+### loss for the batch: 9.21034049987793
+
+Batch: 28
+cids for sample[-1] in batch: [4 1]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 29
+cids for sample[-1] in batch: [4 3]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 30
+cids for sample[-1] in batch: [8 9]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 31
+cids for sample[-1] in batch: [2 5]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 32
+cids for sample[-1] in batch: [7 2]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 33
+cids for sample[-1] in batch: [1 8]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 34
+cids for sample[-1] in batch: [9 2]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 35
+cids for sample[-1] in batch: [0 6]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 2
+### loss for the batch: 9.21034049987793
+
+Batch: 36
+cids for sample[-1] in batch: [9 0]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 37
+cids for sample[-1] in batch: [6 2]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 38
+cids for sample[-1] in batch: [4 2]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 39
+cids for sample[-1] in batch: [2 5]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 40
+cids for sample[-1] in batch: [5 4]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 41
+cids for sample[-1] in batch: [4 0]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 42
+cids for sample[-1] in batch: [1 3]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 2
+### loss for the batch: 9.21034049987793
+
+Batch: 43
+cids for sample[-1] in batch: [3 9]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 44
+cids for sample[-1] in batch: [0 9]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 45
+cids for sample[-1] in batch: [7 2]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 46
+cids for sample[-1] in batch: [9 1]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 47
+cids for sample[-1] in batch: [5 9]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 48
+cids for sample[-1] in batch: [9 6]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 49
+cids for sample[-1] in batch: [1 6]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 50
+cids for sample[-1] in batch: [1 8]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 51
+cids for sample[-1] in batch: [2 7]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 52
+cids for sample[-1] in batch: [8 0]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 53
+cids for sample[-1] in batch: [9 7]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 54
+cids for sample[-1] in batch: [3 8]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 55
+cids for sample[-1] in batch: [6 4]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 2
+### loss for the batch: 9.21034049987793
+
+Batch: 56
+cids for sample[-1] in batch: [5 9]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 57
+cids for sample[-1] in batch: [1 7]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 58
+cids for sample[-1] in batch: [0 7]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 59
+cids for sample[-1] in batch: [0 8]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 60
+cids for sample[-1] in batch: [0 9]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 61
+cids for sample[-1] in batch: [8 0]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 62
+cids for sample[-1] in batch: [9 4]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 63
+cids for sample[-1] in batch: [6 7]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 64
+cids for sample[-1] in batch: [0 4]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 65
+cids for sample[-1] in batch: [0 5]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 66
+cids for sample[-1] in batch: [6 1]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 67
+cids for sample[-1] in batch: [9 0]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 68
+cids for sample[-1] in batch: [8 0]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 69
+cids for sample[-1] in batch: [8 1]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 70
+cids for sample[-1] in batch: [9 3]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 71
+cids for sample[-1] in batch: [5 4]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 72
+cids for sample[-1] in batch: [7 2]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 73
+cids for sample[-1] in batch: [5 7]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 74
+cids for sample[-1] in batch: [2 7]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 75
+cids for sample[-1] in batch: [3 2]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 2
+### loss for the batch: 9.21034049987793
+
+Batch: 76
+cids for sample[-1] in batch: [2 1]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 77
+cids for sample[-1] in batch: [5 9]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 78
+cids for sample[-1] in batch: [6 9]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 79
+cids for sample[-1] in batch: [5 2]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+============================================
+### Epoch: 3 / 20
+### Total reward: -38, Total loss: -174.99647, Best reward: -20 at epoch 2, Best loss: -174.99647 at epoch 1
+
+saved the ckpt to ../checkpoints/exp1/ckpt_3.pt
+CacheInfo(hits=0, misses=0, maxsize=10000, currsize=0)
+============================================
+
+Epoch: 4
+Batch: 0
+cids for sample[-1] in batch: [1 3]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 2
+### loss for the batch: 9.21034049987793
+
+Batch: 1
+cids for sample[-1] in batch: [3 0]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 2
+cids for sample[-1] in batch: [5 6]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 3
+cids for sample[-1] in batch: [4 7]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 2
+### loss for the batch: 9.21034049987793
+
+Batch: 4
+cids for sample[-1] in batch: [7 1]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 5
+cids for sample[-1] in batch: [0 5]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 6
+cids for sample[-1] in batch: [7 3]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 7
+cids for sample[-1] in batch: [3 9]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 8
+cids for sample[-1] in batch: [9 0]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 9
+cids for sample[-1] in batch: [2 9]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 10
+cids for sample[-1] in batch: [9 1]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 11
+cids for sample[-1] in batch: [5 1]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 12
+cids for sample[-1] in batch: [9 0]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 13
+cids for sample[-1] in batch: [1 5]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 14
+cids for sample[-1] in batch: [3 0]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 15
+cids for sample[-1] in batch: [1 3]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 16
+cids for sample[-1] in batch: [0 9]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 17
+cids for sample[-1] in batch: [6 1]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 18
+cids for sample[-1] in batch: [0 6]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 19
+cids for sample[-1] in batch: [5 7]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 20
+cids for sample[-1] in batch: [2 9]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 21
+cids for sample[-1] in batch: [2 1]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 22
+cids for sample[-1] in batch: [5 8]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 23
+cids for sample[-1] in batch: [6 8]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 24
+cids for sample[-1] in batch: [8 6]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 25
+cids for sample[-1] in batch: [7 2]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 26
+cids for sample[-1] in batch: [1 8]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 2
+### loss for the batch: 9.21034049987793
+
+Batch: 27
+cids for sample[-1] in batch: [3 7]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 2
+### loss for the batch: 9.21034049987793
+
+Batch: 28
+cids for sample[-1] in batch: [3 4]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 29
+cids for sample[-1] in batch: [8 4]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 30
+cids for sample[-1] in batch: [5 8]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 2
+### loss for the batch: 9.21034049987793
+
+Batch: 31
+cids for sample[-1] in batch: [1 5]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 32
+cids for sample[-1] in batch: [6 1]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 33
+cids for sample[-1] in batch: [8 4]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 34
+cids for sample[-1] in batch: [7 8]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 35
+cids for sample[-1] in batch: [3 4]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 36
+cids for sample[-1] in batch: [4 1]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 37
+cids for sample[-1] in batch: [3 1]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 38
+cids for sample[-1] in batch: [4 2]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 2
+### loss for the batch: 9.21034049987793
+
+Batch: 39
+cids for sample[-1] in batch: [7 8]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 40
+cids for sample[-1] in batch: [3 5]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 41
+cids for sample[-1] in batch: [3 9]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 42
+cids for sample[-1] in batch: [0 2]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 43
+cids for sample[-1] in batch: [1 9]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 44
+cids for sample[-1] in batch: [3 0]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 45
+cids for sample[-1] in batch: [4 8]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 2
+### loss for the batch: 9.21034049987793
+
+Batch: 46
+cids for sample[-1] in batch: [6 7]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 47
+cids for sample[-1] in batch: [6 4]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 48
+cids for sample[-1] in batch: [5 8]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 49
+cids for sample[-1] in batch: [4 8]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 50
+cids for sample[-1] in batch: [7 3]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 51
+cids for sample[-1] in batch: [5 6]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 52
+cids for sample[-1] in batch: [2 4]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 53
+cids for sample[-1] in batch: [5 2]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 54
+cids for sample[-1] in batch: [7 0]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 2
+### loss for the batch: 9.21034049987793
+
+Batch: 55
+cids for sample[-1] in batch: [5 0]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 2
+### loss for the batch: 9.21034049987793
+
+Batch: 56
+cids for sample[-1] in batch: [5 9]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 57
+cids for sample[-1] in batch: [1 7]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 58
+cids for sample[-1] in batch: [2 7]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 59
+cids for sample[-1] in batch: [0 2]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 60
+cids for sample[-1] in batch: [2 9]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 61
+cids for sample[-1] in batch: [0 4]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 62
+cids for sample[-1] in batch: [1 9]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 63
+cids for sample[-1] in batch: [6 5]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 64
+cids for sample[-1] in batch: [6 4]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 65
+cids for sample[-1] in batch: [9 5]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 66
+cids for sample[-1] in batch: [3 8]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 67
+cids for sample[-1] in batch: [4 7]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 68
+cids for sample[-1] in batch: [1 7]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 69
+cids for sample[-1] in batch: [1 8]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 70
+cids for sample[-1] in batch: [7 1]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 71
+cids for sample[-1] in batch: [5 4]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 72
+cids for sample[-1] in batch: [6 3]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 73
+cids for sample[-1] in batch: [8 6]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 74
+cids for sample[-1] in batch: [8 5]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 75
+cids for sample[-1] in batch: [4 3]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 76
+cids for sample[-1] in batch: [8 1]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 77
+cids for sample[-1] in batch: [3 7]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 78
+cids for sample[-1] in batch: [6 9]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 79
+cids for sample[-1] in batch: [8 5]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+============================================
+### Epoch: 4 / 20
+### Total reward: -36, Total loss: -165.78613, Best reward: -20 at epoch 2, Best loss: -174.99647 at epoch 1
+
+saved the ckpt to ../checkpoints/exp1/ckpt_4.pt
+CacheInfo(hits=0, misses=0, maxsize=10000, currsize=0)
+============================================
+
+Epoch: 5
+Batch: 0
+cids for sample[-1] in batch: [8 3]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 2
+### loss for the batch: 9.21034049987793
+
+Batch: 1
+cids for sample[-1] in batch: [5 0]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 2
+cids for sample[-1] in batch: [6 5]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 3
+cids for sample[-1] in batch: [3 0]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 4
+cids for sample[-1] in batch: [7 1]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 2
+### loss for the batch: 9.21034049987793
+
+Batch: 5
+cids for sample[-1] in batch: [2 8]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 6
+cids for sample[-1] in batch: [3 8]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 7
+cids for sample[-1] in batch: [8 6]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 8
+cids for sample[-1] in batch: [7 8]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 2
+### loss for the batch: 9.21034049987793
+
+Batch: 9
+cids for sample[-1] in batch: [6 3]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 10
+cids for sample[-1] in batch: [8 0]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 11
+cids for sample[-1] in batch: [5 8]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 12
+cids for sample[-1] in batch: [4 0]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 13
+cids for sample[-1] in batch: [1 4]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 14
+cids for sample[-1] in batch: [3 9]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 15
+cids for sample[-1] in batch: [2 3]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 16
+cids for sample[-1] in batch: [1 7]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 17
+cids for sample[-1] in batch: [6 5]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 18
+cids for sample[-1] in batch: [9 4]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 19
+cids for sample[-1] in batch: [1 5]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 20
+cids for sample[-1] in batch: [3 9]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 21
+cids for sample[-1] in batch: [9 4]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 22
+cids for sample[-1] in batch: [1 9]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 23
+cids for sample[-1] in batch: [4 3]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 24
+cids for sample[-1] in batch: [0 7]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 25
+cids for sample[-1] in batch: [5 7]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 26
+cids for sample[-1] in batch: [1 0]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 27
+cids for sample[-1] in batch: [5 1]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 2
+### loss for the batch: 9.21034049987793
+
+Batch: 28
+cids for sample[-1] in batch: [1 0]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 29
+cids for sample[-1] in batch: [9 2]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 2
+### loss for the batch: 9.21034049987793
+
+Batch: 30
+cids for sample[-1] in batch: [7 4]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 2
+### loss for the batch: 9.21034049987793
+
+Batch: 31
+cids for sample[-1] in batch: [2 1]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 32
+cids for sample[-1] in batch: [2 4]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 33
+cids for sample[-1] in batch: [6 2]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 34
+cids for sample[-1] in batch: [3 0]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 35
+cids for sample[-1] in batch: [9 3]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 36
+cids for sample[-1] in batch: [9 0]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 37
+cids for sample[-1] in batch: [7 8]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 38
+cids for sample[-1] in batch: [5 1]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 2
+### loss for the batch: 9.21034049987793
+
+Batch: 39
+cids for sample[-1] in batch: [8 6]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 40
+cids for sample[-1] in batch: [1 4]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 41
+cids for sample[-1] in batch: [3 0]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 42
+cids for sample[-1] in batch: [2 5]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 43
+cids for sample[-1] in batch: [4 3]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 44
+cids for sample[-1] in batch: [6 2]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 45
+cids for sample[-1] in batch: [9 3]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 46
+cids for sample[-1] in batch: [3 5]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 47
+cids for sample[-1] in batch: [0 2]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 48
+cids for sample[-1] in batch: [7 9]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 49
+cids for sample[-1] in batch: [6 2]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 50
+cids for sample[-1] in batch: [5 3]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 51
+cids for sample[-1] in batch: [4 8]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 52
+cids for sample[-1] in batch: [2 0]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 53
+cids for sample[-1] in batch: [4 9]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 54
+cids for sample[-1] in batch: [5 0]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 55
+cids for sample[-1] in batch: [7 3]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 2
+### loss for the batch: 9.21034049987793
+
+Batch: 56
+cids for sample[-1] in batch: [2 6]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 57
+cids for sample[-1] in batch: [7 0]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 58
+cids for sample[-1] in batch: [4 0]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 59
+cids for sample[-1] in batch: [1 6]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 60
+cids for sample[-1] in batch: [9 2]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 61
+cids for sample[-1] in batch: [6 2]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 62
+cids for sample[-1] in batch: [6 9]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 2
+### loss for the batch: 9.21034049987793
+
+Batch: 63
+cids for sample[-1] in batch: [8 3]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 64
+cids for sample[-1] in batch: [2 4]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 2
+### loss for the batch: 9.21034049987793
+
+Batch: 65
+cids for sample[-1] in batch: [6 2]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 66
+cids for sample[-1] in batch: [3 0]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 67
+cids for sample[-1] in batch: [0 4]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 68
+cids for sample[-1] in batch: [5 2]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 69
+cids for sample[-1] in batch: [2 5]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 70
+cids for sample[-1] in batch: [8 6]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 71
+cids for sample[-1] in batch: [4 6]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 72
+cids for sample[-1] in batch: [8 6]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 73
+cids for sample[-1] in batch: [1 4]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 74
+cids for sample[-1] in batch: [3 8]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 75
+cids for sample[-1] in batch: [2 7]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 76
+cids for sample[-1] in batch: [9 8]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 77
+cids for sample[-1] in batch: [8 2]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 78
+cids for sample[-1] in batch: [2 1]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 79
+cids for sample[-1] in batch: [5 2]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 2
+### loss for the batch: 9.21034049987793
+
+============================================
+### Epoch: 5 / 20
+### Total reward: -30, Total loss: -138.15511, Best reward: -20 at epoch 2, Best loss: -174.99647 at epoch 1
+
+saved the ckpt to ../checkpoints/exp1/ckpt_5.pt
+CacheInfo(hits=0, misses=0, maxsize=10000, currsize=0)
+============================================
+
+Epoch: 6
+Batch: 0
+cids for sample[-1] in batch: [5 0]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 2
+### loss for the batch: 9.21034049987793
+
+Batch: 1
+cids for sample[-1] in batch: [4 3]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 2
+cids for sample[-1] in batch: [2 4]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 3
+cids for sample[-1] in batch: [7 5]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 4
+cids for sample[-1] in batch: [0 1]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 2
+### loss for the batch: 9.21034049987793
+
+Batch: 5
+cids for sample[-1] in batch: [5 7]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 6
+cids for sample[-1] in batch: [3 1]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 2
+### loss for the batch: 9.21034049987793
+
+Batch: 7
+cids for sample[-1] in batch: [9 4]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 8
+cids for sample[-1] in batch: [1 8]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 9
+cids for sample[-1] in batch: [4 9]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 10
+cids for sample[-1] in batch: [1 9]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 11
+cids for sample[-1] in batch: [3 9]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 12
+cids for sample[-1] in batch: [2 4]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 13
+cids for sample[-1] in batch: [0 2]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 14
+cids for sample[-1] in batch: [1 0]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 15
+cids for sample[-1] in batch: [7 3]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 16
+cids for sample[-1] in batch: [2 4]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 17
+cids for sample[-1] in batch: [7 9]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 18
+cids for sample[-1] in batch: [4 3]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 19
+cids for sample[-1] in batch: [9 6]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 20
+cids for sample[-1] in batch: [0 3]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: 0
+### loss for the batch: 0.0
+
+Batch: 21
+cids for sample[-1] in batch: [9 5]
+Cand prob for sample[-1] in batch: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+### reward for the batch: -2
+### loss for the batch: -9.21034049987793
+
+Batch: 22

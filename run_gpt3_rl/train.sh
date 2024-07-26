@@ -10,7 +10,7 @@ python learn_policy.py \
 --lr 0.001 \
 --epochs 20 \
 --embedding_size 128 \
---batch_size 2 \
+--batch_size 3 \
 --gpu 0 \
 --gpu_base 1 \
 --gpu_embedding 2

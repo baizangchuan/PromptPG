@@ -50,8 +50,9 @@ def call_QWen(prompt, args, model, tokenizer):
     query=[]
     query.append({'text': prompt})
     query = tokenizer.from_list_format(query)
-    # print(query)
+    print(f"----query:  {query}")
     response, _ = model.chat(tokenizer, query=query, history=None)
+    print(f"----response:  {response}")
     return response
 
 @lru_cache(maxsize=10000)
@@ -118,6 +119,8 @@ def get_batch_reward_loss(scores, cand_pids, pid_batch, option_batch, unit_batch
 
         # normalize the number in the text
         prediction_norm = normalize_answer(prediction, unit_batch[i])
+        print(f"---prediction: {prediction_norm.lower()}")
+        print(f"---ground_truth: {label_batch[i].lower()}")
 
         log_prob = 0
         for cid in cids:
